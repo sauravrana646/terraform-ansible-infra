@@ -1,7 +1,7 @@
 ansible-infra/collections/*
 terraform-infra/.terraform/*
 terraform-infra/*.pub
-# terraform-infra/*.tfvars
+terraform-infra/*.tfvars
 terraform-infra/*.tfvars.json
 terraform-infra/*.tfstate
 terraform-infra/*.tfstate.*
